@@ -1,1 +1,1 @@
-0x00 paskal triangle
+0x00 paskal triangle readme
